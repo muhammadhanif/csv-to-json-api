@@ -1,0 +1,6 @@
+{
+  "name": "csv-to-json-api",
+  "description": "A tool for converting CSV to JSON.",
+  "repository": "https://github.com/muhammadhanif/csv-to-json-api.git",
+  "addons": []
+}
